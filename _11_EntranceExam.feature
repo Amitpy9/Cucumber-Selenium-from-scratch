@@ -1,5 +1,5 @@
 
-# Senaryo :
+# Scenario :
 
 # Test the exam form,
 # enter one exam, and then perform the deletion process for the entered exam.
