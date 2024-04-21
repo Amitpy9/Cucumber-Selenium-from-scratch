@@ -1,6 +1,4 @@
-#Senaryo
-#Citizenships sayfasına gidiniz.
-#1 adet Citizenships kaydı yapılabildiğini doğrulayınız.
+#Scenario
 Feature: Citizenship Functionality
 
   Scenario: Create a Citizenship
